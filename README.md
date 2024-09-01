@@ -3,12 +3,11 @@
 This repository contains a machine learning model to predict the risk of cervical cancer based on various health factors. The model has been trained using the `cervical.csv` dataset and is implemented using Python. The prediction model is hosted on a web application built with Streamlit.
 
 ## Table of Contents
+
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Files in the Repository](#files-in-the-repository)
-- [How to Contribute](#how-to-contribute)
-- [License](#license)
 
 ## Project Overview
 
@@ -45,6 +44,7 @@ The Streamlit application allows users to input various health parameters and ob
 3. Click the "Predict" button to get the risk assessment.
 
 The application will return one of the following results:
+
 - "Low risk of cervical cancer"
 - "High risk of cervical cancer"
 
