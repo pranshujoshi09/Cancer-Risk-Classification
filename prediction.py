@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from pydantic import BaseModel, ValidationError
 
-model = pickle.load(open("regression.pkl", "rb"))
+model = pickle.load(open("cancer_model.pkl", "rb"))
 
 class CancerDetectionRequest(BaseModel):
     Schiller: bool
