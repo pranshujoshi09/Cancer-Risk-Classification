@@ -7,7 +7,7 @@ This repository contains a machine learning model to predict the risk of cervica
 - [Project Overview](#project-overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Files in the Repository](#files-in-the-repository)
+- [Files in the Repository](#files)
 
 ## Project Overview
 
@@ -52,7 +52,7 @@ The application will return one of the following results:
 
 ![screenshot](/img/demo.png)
 
-## Files in the Repository
+## Files
 
 - `regression.pkl`: Pre-trained machine learning model used for cervical cancer risk prediction.
 - `cervical.csv`: Dataset used for training the model.
