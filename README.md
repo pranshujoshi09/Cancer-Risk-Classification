@@ -20,7 +20,7 @@ The model uses a logistic regression algorithm trained on a dataset of cervical 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/Cervical-Cancer-Risk-Classification.git
+    git clone https://github.com/pranshujoshi09/Cancer-Risk-Classification.git
     ```
 
 2. Install the required Python packages:
