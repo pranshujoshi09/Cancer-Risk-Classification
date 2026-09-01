@@ -61,5 +61,4 @@ The application will return one of the following results:
 - `requirements.txt`: List of Python dependencies required to run the project.
 
 ---
-
-Readme made with 💖 using [README Generator by Chirag Joshi](https://github.com/chiragjoshi12/readme-generator)
+By Luffy
